@@ -1,0 +1,37 @@
+body {
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-heigh: 1.5;
+}
+
+nav {
+  color: #793284;
+  font-family: 'Patua One', cursive;
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+  a:hover {
+    color: #b42885;
+  }
+
+img {
+  width: 100%;
+}
+
+h1,
+h2 {
+  color: #5d8432;
+  font-family: 'Patua One', cursive;
+  text-transform: uppercase;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+}
+
+#hadrosaur > figcaption {
+  font-size: larger;
+}
