@@ -11,6 +11,10 @@ nav {
   font-size: 1.125rem;
 }
 
+ol {
+  list-style-type: none;
+}
+
 a:hover {
   color: #b42885;
 }
